@@ -1,0 +1,62 @@
+body{
+    
+}
+
+h1 {
+   text-align: center
+}
+
+.inicio{
+    background: #E6E6FA;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center
+}
+
+#filme1{
+   width: 100%;
+}
+
+.principal{
+    background: #cccccc;
+    padding: 30px;
+}
+
+.elenco{
+    background: #FFE4E1;
+    padding: 10px;
+}
+
+strong{
+    color: red;
+}
+
+.itens{
+    font-style: italic;
+    background: #D8BFD8;
+}
+.imagem2{
+    width: 44%;
+}
+.imagem3{
+    width: 44%;
+}
+
+.imagem4{
+    width: 44%;
+}
+
+.imagem5{
+    width: 44%;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-rights: 40%;                  
+    width: 40%;
